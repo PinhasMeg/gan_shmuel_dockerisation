@@ -1,0 +1,12 @@
+Dockerfile
+docker-compose*
+
+# ignore .git and .cache folders
+.git
+.cache
+
+# ignore venv of python
+venv/
+
+#Ignoring all the markdown and class files
+*.md
